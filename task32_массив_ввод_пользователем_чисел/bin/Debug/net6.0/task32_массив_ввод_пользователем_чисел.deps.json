@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task32_массив_ввод_пользователем_чисел/1.0.0": {
+        "runtime": {
+          "task32_массив_ввод_пользователем_чисел.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task32_массив_ввод_пользователем_чисел/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
