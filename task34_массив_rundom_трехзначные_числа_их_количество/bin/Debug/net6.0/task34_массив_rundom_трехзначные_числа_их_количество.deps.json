@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task34_массив_rundom_трехзначные_числа_их_количество/1.0.0": {
+        "runtime": {
+          "task34_массив_rundom_трехзначные_числа_их_количество.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task34_массив_rundom_трехзначные_числа_их_количество/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
