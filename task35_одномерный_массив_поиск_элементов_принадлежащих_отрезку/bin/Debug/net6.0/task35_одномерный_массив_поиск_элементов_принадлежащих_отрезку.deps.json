@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task35_одномерный_массив_поиск_элементов_принадлежащих_отрезку/1.0.0": {
+        "runtime": {
+          "task35_одномерный_массив_поиск_элементов_принадлежащих_отрезку.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task35_одномерный_массив_поиск_элементов_принадлежащих_отрезку/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
