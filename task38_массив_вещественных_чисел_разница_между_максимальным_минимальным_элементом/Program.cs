@@ -14,8 +14,8 @@ class Program//класс стандартный для создания при�
         {
             Random rnd = new Random();//генератор случайных чисел
             int[] array = new int[10];//size массива
-            int max=0, min=50;//границы массива
-            for (int i = 0; i < array.Length; i++ )  array[i] = rnd.Next(100);
+            int max=0, min=100;//границы массива
+            for (int i = 0; i < array.Length; i++ )  array[i] = rnd.Next(100);//граница рандобных значений чисел до 100
             for (int i = 0; i < array.Length; i++)
             {
                 if (array[i] > max) max = array[i];
